@@ -116,7 +116,7 @@ Contributions are welcome! Follow these steps:
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
-## 🌟GSSoc 
+## 🌟GSSoC'25
 ![GSSoC Logo](https://github.com/dimpal-yadav/SafeVoice/blob/main/GirlScript-Summer-of-Code.png)
 🌟 **Exciting News...**
 
