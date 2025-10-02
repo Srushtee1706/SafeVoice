@@ -294,7 +294,7 @@ export default function Home() {
           Explore Stories
         </button>
         <button
-          onClick={() => navigate('/share')}
+          onClick={() => navigate('/share-story')}
           className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white font-bold px-8 py-3 rounded-full shadow-lg transition-all duration-200 text-lg"
           style={{ fontFamily: "'Montserrat', 'Nunito', sans-serif" }}
         >
