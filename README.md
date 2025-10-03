@@ -157,6 +157,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow our [Code of Conduct](
 | 🥇 **Advanced** | Major features, architecture improvements | 30-50 | ![Advanced](https://img.shields.io/badge/Level-Advanced-red) |
 ---
 
+## ✨ Contributors
+
+#### Thanks to all the wonderful contributors 💖
+
+[![Contributors](https://contrib.rocks/image?repo=Piyushydv08/SafeVoice)](https://github.com/Piyushydv08/SafeVoice/graphs/contributors)
+
+---
 ## 📧 Contact  
 
 For queries, feedback, or guidance regarding this project, you can contact the **mentor** assigned to the issue:  
